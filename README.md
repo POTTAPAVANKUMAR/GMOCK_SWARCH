@@ -1,1 +1,0 @@
-# GMOCK_SWARCH

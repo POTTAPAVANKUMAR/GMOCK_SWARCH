@@ -1,1 +1,2 @@
 D:\sw_arch\GmockExamples\GmockNew\x64\Debug\GmockNew.vcxproj.CopyComplete
+D:\sw_arch\GMOCK_SWARCH\GmockNew\x64\Debug\GmockNew.vcxproj.CopyComplete

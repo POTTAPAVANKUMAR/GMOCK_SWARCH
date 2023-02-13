@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\sw_arch\GmockExamples\x64\Debug\GmockNew.exe</FullPath>
+      <FullPath>D:\sw_arch\GMOCK_SWARCH\x64\Debug\GmockNew.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

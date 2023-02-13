@@ -10,4 +10,4 @@
   gtest-all.cc
   gmock-all.cc
   Generating Code...
-  GmockNew.vcxproj -> D:\sw_arch\GmockExamples\x64\Debug\GmockNew.exe
+  GmockNew.vcxproj -> D:\sw_arch\GMOCK_SWARCH\x64\Debug\GmockNew.exe
